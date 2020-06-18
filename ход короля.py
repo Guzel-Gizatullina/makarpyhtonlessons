@@ -4,7 +4,7 @@ x2=int(input())
 y2=int(input())
 distx=x2-x1
 disty=y2-y1
-if distx==1 or disty==1:
+if abs(distx)<=1 and abs(disty)<=1:
     print("YES")
 else:
     print("NO")
