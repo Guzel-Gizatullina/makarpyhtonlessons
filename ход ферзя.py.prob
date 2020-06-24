@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: ход ферзя","srcPath":"/Users/guzelgizatullina/Documents/pythonlessons/ход ферзя.py","tests":[{"id":1592986231483,"input":"4\n3\n7\n6","output":"YES\n"},{"id":1592987248987,"input":"","output":""}],"timeLimit":3000,"url":"/Users/guzelgizatullina/Documents/pythonlessons/ход ферзя.py"}
