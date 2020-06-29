@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: for","srcPath":"/Users/guzelgizatullina/Documents/pythonlessons/for.py","tests":[{"id":1593063436109,"input":"3\n5\n6\n7","output":"18"}],"timeLimit":3000,"url":"/Users/guzelgizatullina/Documents/pythonlessons/for.py"}
